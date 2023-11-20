@@ -70,19 +70,19 @@ sphinx-build -b html docs/ build/
 
 # Examples
 
-For examples, see the [examples](https://github.com/acestar121/ChatterBot/tree/master/examples)
+For examples, see the [examples](https://github.com/he-man.dev/ChatterBot/tree/master/examples)
 directory in this project's git repository.
 
-There is also an example [Django project using ChatterBot](https://github.com/acestar121/ChatterBot/tree/master/examples), as well as an example [Flask project using ChatterBot](https://github.com/chamkank/flask-chatterbot).
+There is also an example [Django project using ChatterBot](https://github.com/he-man.dev/ChatterBot/tree/master/examples), as well as an example [Flask project using ChatterBot](https://github.com/chamkank/flask-chatterbot).
 
 # History
 
-See release notes for changes https://github.com/acestar121/ChatterBot/releases
+See release notes for changes https://github.com/he-man.dev/ChatterBot/releases
 
 # Development pattern for contributors
 
 1. [Create a fork](https://help.github.com/articles/fork-a-repo/) of
-   the [main ChatterBot repository](https://github.com/acestar121/ChatterBot) on GitHub.
+   the [main ChatterBot repository](https://github.com/he-man.dev/ChatterBot) on GitHub.
 2. Make your changes in a branch named something different from `master`, e.g. create
    a new branch `my-pull-request`.
 3. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/).
